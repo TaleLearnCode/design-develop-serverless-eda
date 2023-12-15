@@ -1,4 +1,4 @@
-![Design and Develop a Serverless Event-Driven Microservice-Based Solution (Workshop)](images/Thumbnail.png)
+![Design and Develop a Serverless Event-Driven Microservice-Based Solution (Workshop)](images/thumbnail.png)
 
 ## Short Abstract
 Hands-on full-day workshop where you will design, develop, and publish a serverless event-driven microservice-based solution.
