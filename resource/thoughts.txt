@@ -1,0 +1,30 @@
+01 - Architecture Basics
+	Unleashing the Power of the Cloud: Master the Art of Architecting Solutions!
+02 - Serverless Event-Driven Architected Microservices Basics
+	Breaking Free: Unleash the Power of Serverless Microserves Events!
+03 - Design a Customer-Centric Solution
+	Customer-Centric Conquest: Designing Solutions That Wow and Win!
+04 - Azure Service Introductions
+	Azure's Dance of Microservices and Event-Driven Wonders!
+	
+
+01-architecture-basics
+	
+
+
+Software Architecture Steps
+Architecting Solutions to Meet Customer Needs
+Serverless Event-Driven Architected Microserivces Basics
+	Microservices
+	Serverless
+	Event-Driven Architecture
+Design a Customer-Centric Solution
+Azure Service Introductions
+	Azure SQL
+	Azure Cosmos DB
+	Azure Event Hubs
+	Azure Service Bus
+	Azure Communication Services
+	Azure Functions
+	Azure Key Vault
+	Azure App Configuration.
